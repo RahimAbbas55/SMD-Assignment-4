@@ -1,0 +1,41 @@
+<resources>
+    <!-- APP NAME   -->
+    <string name="app_name">Shopping_List</string>
+
+    <!-- SPLASH SCREEN   -->
+    <string name="logo_description">Welcome To Shopping List Application</string>
+
+    <!-- MAIN ACTIVITY    -->
+    <string name="heading1">Welcome To</string>
+    <string name="heading2">Shopping List</string>
+    <string name="heading3">How would you like to continue?</string>
+
+    <!-- SIGN UP ACTIVITY   -->
+    <string name="signup">SignUp</string>
+    <string name="signup_name">Please Enter Your Name:</string>
+    <string name="signup_email">Please Enter Your Email:</string>
+    <string name="signup_password">Please Enter Your Password:</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="login_btn">Login</string>
+    <string name="existing_account">Already have an account?</string>
+
+    <!-- LOGIN ACTIVITY   -->
+    <string name="login_heading">Login to your account!</string>
+    <string name="login_email">Please enter your email:</string>
+    <string name="login_password">Please enter your password:</string>
+    <string name="login_popup">Don\'t Have An Account?</string>
+
+    <!-- MainPage    -->
+    <string name="logoutBtn">Logout</string>
+    <string name="mainpage_heading">Welcome User!</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Qt:</string>
+    <string name="price">Pkr:</string>
+
+    <!-- Add Dialog    -->
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="item_price_placeholder">Item Price</string>
+    <string name="item_quantity_placeholder">Item Quantity</string>
+    <string name="item_add">Add Item</string>
+    <string name="cancel">Cancel</string>
+</resources>
